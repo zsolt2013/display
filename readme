@@ -1,0 +1,18 @@
+1, MVN_Route futtatása    
+
+2, kimenet átmásolása
+
+-----------------
+1-2,  
+	./run 47.5300 21.6391  47.5340 21.6391 
+	./run 47.54531 21.64166 47.52783 21.61440  --Főnix/Segner
+	./run 47.54317 21.63922 47.56063 21.62926  --lovi/klinika  
+-----------------
+
+3, mvn clean install
+
+4, mvn exec:java
+
+
+---------------------------------------------
+GNU Lesser General Public License
